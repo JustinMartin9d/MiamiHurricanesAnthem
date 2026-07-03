@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Miami Hurricanes Anthem</title>
+  <meta name="description" content="Miami Hurricanes Anthem: four albums, one movement. Stream It's All About The U, Throwback To The U, Eye Of The Storm, and The Future Is U." />
+  <meta property="og:title" content="Miami Hurricanes Anthem" />
+  <meta property="og:description" content="The Soundtrack of The U. Scan, stream, support." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/albums/throwback-to-the-u.jpeg" />
+  <link rel="icon" href="assets/albums/throwback-to-the-u.jpeg" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <section class="hero" aria-labelledby="main-title">
+      <p class="eyebrow">Miami Hurricanes Anthem Presents</p>
+      <h1 id="main-title">The Soundtrack of The U</h1>
+      <p class="tagline">Four albums. One movement.</p>
+      <a class="primary-cta" href="#albums">Choose an album</a>
+    </section>
+
+    <section id="albums" class="albums" aria-label="Albums">
+      <article class="album-card">
+        <img src="assets/albums/its-all-about-the-u.jpeg" alt="It's All About The U album artwork" />
+        <div class="album-copy">
+          <h2>It's All About The U</h2>
+          <p>Built different. 305 forever.</p>
+          <a href="https://distrokid.com/hyperfollow/miamihurricanes/its-all-about-the-u/" target="_blank" rel="noopener">Listen now</a>
+        </div>
+      </article>
+
+      <article class="album-card">
+        <img src="assets/albums/throwback-to-the-u.jpeg" alt="Throwback To The U album artwork" />
+        <div class="album-copy">
+          <h2>Throwback To The U</h2>
+          <p>Old school Miami energy for the new era.</p>
+          <a href="https://distrokid.com/hyperfollow/miamihurricanes/throwback-to-the-u/" target="_blank" rel="noopener">Listen now</a>
+        </div>
+      </article>
+
+      <article class="album-card">
+        <img src="assets/albums/eye-of-the-storm.jpeg" alt="Eye Of The Storm album artwork" />
+        <div class="album-copy">
+          <h2>Eye Of The Storm</h2>
+          <p>Through the smoke. Through the fire. For The U.</p>
+          <a href="https://distrokid.com/hyperfollow/miamihurricanes/eye-of-the-storm/" target="_blank" rel="noopener">Listen now</a>
+        </div>
+      </article>
+
+      <article class="album-card">
+        <img src="assets/albums/the-future-is-u.jpeg" alt="The Future Is U album artwork" />
+        <div class="album-copy">
+          <h2>The Future Is U</h2>
+          <p>The U. The culture. The future.</p>
+          <a href="https://distrokid.com/hyperfollow/miamihurricanes/the-future-is-u/" target="_blank" rel="noopener">Listen now</a>
+        </div>
+      </article>
+    </section>
+
+    <section class="footer-cta" aria-label="Streaming platforms">
+      <p>Available on all major streaming platforms</p>
+      <div class="platforms" aria-label="Platform names">
+        <span>Spotify</span>
+        <span>Apple Music</span>
+        <span>YouTube Music</span>
+        <span>Amazon Music</span>
+        <span>TIDAL</span>
+        <span>Pandora</span>
+        <span>SoundCloud</span>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
