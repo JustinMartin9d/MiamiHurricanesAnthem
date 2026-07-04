@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 72" role="img" aria-label="Miami Hurricanes Anthem U icon">
-  <rect width="96" height="72" rx="16" fill="#050706"/>
-  <path d="M16 10h28v38c0 7-5 14-14 14S16 55 16 48V10Z" fill="#f15a24" stroke="#fff" stroke-width="5"/>
-  <path d="M52 10h28v38c0 7-5 14-14 14S52 55 52 48V10Z" fill="#00843d" stroke="#fff" stroke-width="5"/>
-</svg>
