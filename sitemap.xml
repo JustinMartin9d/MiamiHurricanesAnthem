@@ -1,8 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://miamihurricanesanthem.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page Not Found | Miami Hurricanes Anthem</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <main class="hero section-dark" style="min-height:100svh">
+    <div class="container hero-copy" style="position:relative;z-index:2;text-align:center;margin:auto">
+      <p class="eyebrow">404</p>
+      <h1 style="font-size:clamp(4rem,15vw,9rem)">Still The U</h1>
+      <p class="hero-lede" style="margin-inline:auto">That page is missing, but the music is live.</p>
+      <a class="btn btn-primary" href="/">Return Home</a>
+    </div>
+  </main>
+</body>
+</html>
